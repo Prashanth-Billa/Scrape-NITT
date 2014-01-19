@@ -1,0 +1,10 @@
+Steps after Installation:
+
+1. Go to the directory in which the application is installed.
+
+2. Run the exe file as an administrator.
+
+3. The results will be available in the Result folder in the same location. The result file consists of 
+	i)OUTPUT.doc
+	ii)Result.xls
+	iii)Statistics.doc (if process is successful)
